@@ -25,8 +25,8 @@ public class Exe {
 
         md = (n1 + n2 + n3 + n4) / 4;
 
-        if (md >= 5){
-            System.out.println("Aprovado");
+        if (md >= 5{
+            System.out.println("Aprovado, parabéns);
 
 
         }else {
