@@ -9,7 +9,8 @@ public class LaçoDeRepetição {
         System.out.println("Qual número da tabuada que você deseja calcular?");
         int NumeroDaTabuada = imput.nextInt();
 
-        for (int contador=1; contador <= 10; contador++){
+        for (int contador=1; contador <= 10
+                ; contador++){
              int ValorResultado = NumeroDaTabuada * contador;
              System.out.println(NumeroDaTabuada + " X " + contador + " = " + ValorResultado);
 
